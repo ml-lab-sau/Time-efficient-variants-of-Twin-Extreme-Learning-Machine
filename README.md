@@ -9,7 +9,7 @@
 ➡️ If you use LSTELM and WLTELM's Model, it's concepts and functionalities in a scientific publication, please cite the following paper:
 
 ## Cite this paper
-**Pritam Anand, Amisha Bharti, Reshma Rastogi**, "[Time efficient variants of Twin Extreme Learning Machine]"(https://www.sciencedirect.com/science/article/pii/S2667305322001065), Intelligent Systems with Applications, Volume 17, 2023, ISSN 2667-3053, https://doi.org/10.1016/j.iswa.2022.200169.
+**Pritam Anand, Amisha Bharti, Reshma Rastogi**, "[Time efficient variants of Twin Extreme Learning Machine](https://www.sciencedirect.com/science/article/pii/S2667305322001065)", Intelligent Systems with Applications, Volume 17, 2023, ISSN 2667-3053, https://doi.org/10.1016/j.iswa.2022.200169.
 
 **BibTeX entry:**
 ```bibtex
